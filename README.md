@@ -1,4 +1,4 @@
-# Sreevas-MK
+# Sreevas M K
 ### Cloud & Infrastructure Engineer | DevOps & Platform Engineering
 
 Cloud & Infrastructure Engineer with strong hands-on experience designing and automating AWS-based platforms using Terraform, Kubernetes, Ansible, and GitOps workflows.  
@@ -14,7 +14,7 @@ Currently transitioning into **DevOps / Platform Engineering roles** focused on:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### ☁️ Production-Style EKS GitOps Platform
 
@@ -60,22 +60,22 @@ Automated Kubernetes development platform built with Kind, Ansible, and GitOps.
 
 ## 🧰 Core Technical Stack
 
-**Cloud**
+**Cloud**:
 AWS (EC2, VPC, IAM, EKS, ECS, RDS, ALB/NLB, S3, Route53, CloudWatch, KMS)
 
-**Infrastructure as Code & Automation**
+**Infrastructure as Code & Automation**:
 Terraform, Ansible, Python (boto3 automation)
 
-**Containers & Orchestration**
+**Containers & Orchestration**:
 Docker, Kubernetes, Helm, EKS
 
-**CI/CD & GitOps**
+**CI/CD & GitOps**:
 GitHub Actions, ArgoCD, Git workflows
 
-**Observability**
+**Observability**:
 Prometheus, Grafana, Loki
 
-**Systems**
+**Systems**:
 Linux Administration, Networking, Hosting Infrastructure, Security Hardening
 
 ---
